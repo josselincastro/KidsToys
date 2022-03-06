@@ -1,0 +1,10 @@
+C:\Users\Josselin Castro\Desktop\proyecto\KidsToys\KidsToys.BL\bin\Debug\KidsToys.BL.dll.config
+C:\Users\Josselin Castro\Desktop\proyecto\KidsToys\KidsToys.BL\bin\Debug\KidsToys.BL.dll
+C:\Users\Josselin Castro\Desktop\proyecto\KidsToys\KidsToys.BL\bin\Debug\KidsToys.BL.pdb
+C:\Users\Josselin Castro\Desktop\proyecto\KidsToys\KidsToys.BL\bin\Debug\EntityFramework.dll
+C:\Users\Josselin Castro\Desktop\proyecto\KidsToys\KidsToys.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josselin Castro\Desktop\proyecto\KidsToys\KidsToys.BL\bin\Debug\EntityFramework.xml
+C:\Users\Josselin Castro\Desktop\proyecto\KidsToys\KidsToys.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josselin Castro\Desktop\proyecto\KidsToys\KidsToys.BL\obj\Debug\KidsToys.BL.csprojResolveAssemblyReference.cache
+C:\Users\Josselin Castro\Desktop\proyecto\KidsToys\KidsToys.BL\obj\Debug\KidsToys.BL.dll
+C:\Users\Josselin Castro\Desktop\proyecto\KidsToys\KidsToys.BL\obj\Debug\KidsToys.BL.pdb
