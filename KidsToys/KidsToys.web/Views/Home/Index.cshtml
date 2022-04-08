@@ -1,7 +1,31 @@
-﻿
+﻿@model List<KidsToys.BL.Producto>
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Inicio";
 }
+<div class="col-md-12">
+    <div class="section-heading">
+        <div class="line-dec"></div>
+        <div class="container">
+            <div class="heading"><h3>Elementos destacados</h3></div>
+            <div class="row">
 
-<h2>Bienvenidos a Kids Toys</h2>
+                @foreach (var producto in Model)
+            {
+                    <div class="col-md-12">
+                        <div class="owl-carousel owl-theme">
+                            <div class="ïmg-200x mlr-auto pos-relative"></div>
+                            <img src="@(ViewBag.adminWebsiteUrl + producto.UrlImagen)" alt="">
+                        </div>
+                    </div>
 
+
+                    <h5 class="mt-20">@producto.Descripcion</h5>
+                            <h4 class="mt-5 color-primary float-right"><b>L @producto.Precio</b></h4>
+
+
+
+                }
+            </div><!-- row -->
+        </div><!-- container -->
+        </div>
+    </div>
